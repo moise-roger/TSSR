@@ -28,7 +28,7 @@
 
 **Quelques comptes de réseaux sociaux de ma collection :**
 
-\- [Webologie](https://nitter.cf/Webologie_me)
+\- [Webologie](https://x.com/Webologie_me)
 
 \- [Edward Snowden](https://nitter.cf/Snowden)
 
@@ -48,7 +48,7 @@
 
 \- [FFmpeg](https://nitter.cf/FFmpeg)
 
-**Figure majeure du libre (bien qu'ayant eu de nombreuses controverses)**
+**Figure majeure du libre ayant des interviews à écouter (bien qu'ayant eu de nombreuses controverses)**
 
 \- [Richard Stallman](https://fr.wikipedia.org/wiki/Richard_Stallman)
 
