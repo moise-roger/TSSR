@@ -53,6 +53,7 @@
 \- [Richard Stallman](https://fr.wikipedia.org/wiki/Richard_Stallman)
 
 **Et plein d'autres...**
-**Pour garder Android ouvert ♥️ :**
+
+**BONUS : Pour garder Android ouvert ♥️ :**
 
 [https://keepandroidopen.org/](https://keepandroidopen.org/)
