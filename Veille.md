@@ -1,5 +1,7 @@
 # Veille technologique
 
+La veille technologique ou veille scientifique et technique, désigne un processus d’observation et d’analyse des évolutions scientifiques et technologiques. Elle s’inscrit dans une démarche de suivi des connaissances et de l’innovation, mobilisée notamment dans des contextes institutionnels, industriels ou de recherche.
+
 **Quelques chaînes YT de ma collection pour une veille technologique :**
 
 \- [Reject Convenience](https://youtube.com/@rejectconvenience)
