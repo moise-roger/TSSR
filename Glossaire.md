@@ -86,6 +86,8 @@ Hugging Face est une plateforme et une communauté d’apprentissage machine (ML
 
 **I**
 - Inférence \
+L'inférence de l'IA est la partie "exécution" de l'intelligence artificielle. C'est le moment où un modèle entraîné cesse d'apprendre et commence à fonctionner, en transformant ses connaissances en résultats concrets. \
+[Source](https://cloud.google.com/discover/what-is-ai-inference?hl=fr)
 
 - Injection \
 Une injection de prompt est un type de cyberattaque contre les grands modèles de langage (LLM). Les pirates informatiques déguisent des entrées malveillantes en prompts légitimes et manipulent ainsi les systèmes d’IA générative (GenAI) pour qu’ils divulguent des données sensibles, diffusent de fausses informations ou pire. \
@@ -139,8 +141,12 @@ Un réseau neuronal est un modèle de machine learning qui empile des « neurone
 
 **S**
 - SLOP \
+Le slop, le slop IA (littéralement « bouillie d'IA ») ou l'AI slop (terme issu de l'anglais), ou encore, selon une proposition de l’Office québécois de la langue française, le contenu dégénératif, est un type de média, en croissance exponentielle dans les années 2020, dont les textes, sons, images ou vidéo sont de mauvaise qualité, et réalisé via une technologie d'intelligence artificielle générative, de manière à être imposé à l'utilisateur en exploitant les failles des algorithmes de recommandation des réseaux sociaux, pour « générer du clic » et de l'argent. Le slop, issu du marketing digital, est au Web ce que le spam était aux courriels avant les outils anti-spam. \
+[Source](https://fr.wikipedia.org/wiki/Slop_(intelligence_artificielle))
 
 - Singularité technologique \
+La souveraineté en matière d’IA est la capacité d’une entreprise ou d’une nation à contrôler sa pile technologique d’IA, y compris l’infrastructure informatique associée, les données, les modèles IA et les opérations. \
+[Source](https://www.ibm.com/fr-fr/think/topics/ai-sovereignty)
 
 - Souveraineté \
 
