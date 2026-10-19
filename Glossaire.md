@@ -75,7 +75,7 @@ La distillation des connaissances est une technique de machine learning qui cons
 
 **H**
 - Hallucination \
-L’hallucination d’IA est un phénomène dans lequel un grand modèle de langage (LLM), souvent un chatbot d’IA générative ou un outil de vision par ordinateur perçoit des modèles ou des objets inexistants ou imperceptibles pour les observateurs humains, créant ainsi des résultats absurdes ou totalement erronés.
+L’hallucination d’IA est un phénomène dans lequel un grand modèle de langage (LLM), souvent un chatbot d’IA générative ou un outil de vision par ordinateur perçoit des modèles ou des objets inexistants ou imperceptibles pour les observateurs humains, créant ainsi des résultats absurdes ou totalement erronés. \
 [Source](https://www.ibm.com/fr-fr/think/topics/ai-hallucinations)
 
 - Harnais \
@@ -90,6 +90,7 @@ Hugging Face est une plateforme et une communauté d’apprentissage machine (ML
 - Injection \
 Une injection de prompt est un type de cyberattaque contre les grands modèles de langage (LLM). Les pirates informatiques déguisent des entrées malveillantes en prompts légitimes et manipulent ainsi les systèmes d’IA générative (GenAI) pour qu’ils divulguent des données sensibles, diffusent de fausses informations ou pire. \
 [Source](https://www.ibm.com/fr-fr/think/topics/prompt-injection)
+
 - Invasif \
 
 **L**
@@ -98,6 +99,8 @@ Une injection de prompt est un type de cyberattaque contre les grands modèles d
 - LLAMA \
 
 - LLM \
+Un grand modèle de langage (Large Language Model, LLM) est un type de programme d'intelligence artificielle (IA) capable, entre autres tâches, de reconnaître et de générer du texte. Les LLM sont entraînés sur d'immenses ensembles de données, d'où l'emploi du terme « large » (grand) dans la dénomination anglaise. Ils s'appuient sur l'apprentissage automatique (Machine Learning, ML), et plus spécifiquement sur un type de réseau neuronal appelé « modèle transformeur ». \
+[Source](https://www.cloudflare.com/fr-fr/learning/ai/what-is-large-language-model/)
 
 **M**
 - Machine Learning \
@@ -107,50 +110,58 @@ Une injection de prompt est un type de cyberattaque contre les grands modèles d
 - Mémoire unifiée \
 
 **N**
-- NVIDIA /
+- NVIDIA \
 
 **O**
-- OpenClaw /
+- OpenClaw \
 
-- OpenRouter /
+- OpenRouter \
 
 **P**
-- Paramètre /
-- Poids /
+- Paramètre \
 
-- Pre-trained /
+- Poids \
 
-- Prompt /
+- Pre-trained \
+
+- Prompt \
 
 **R**
-- RAM(DRAM) /
+- RAM(DRAM) \
 
-- RAG /
+- RAG \
 
-- Réseau neuronal /
+- Réseau neuronal \
+Un réseau neuronal est un modèle de machine learning qui empile des « neurones » simples en couches et apprend des poids et des biais de reconnaissance de modèles à partir de données pour mapper des entrées à des productions. \
+[Source](https://www.ibm.com/fr-fr/think/topics/neural-networks)
 
-- Robotisation /
+- Robotisation \
 
 **S**
-- SLOP /
+- SLOP \
 
-- Singularité technologique /
+- Singularité technologique \
 
-- Souveraineté /
+- Souveraineté \
 
-- Super intelligence /
+- Super intelligence \
 
 **T**
-- Token /
+- Token \
+Chaque application d’IA repose sur des algorithmes qui traitent les données dans leur propre langage, lequel est basé sur un vocabulaire de tokens (ou jetons).
+Les jetons sont de minuscules unités de données issues de la décomposition d’informations plus importantes. Les modèles d’IA traitent les jetons pour apprendre les relations entre eux et débloquer à des capacités, telles que la prédiction, la génération et le raisonnement. Plus les jetons sont traités rapidement, plus les modèles peuvent apprendre et réagir rapidement. \
+[Source](https://blogs.nvidia.fr/explication-des-jetons-le-langage-et-la-monnaie-de-lia/)
 
-- TPU /
-Un Tensor Processing Unit (TPU, unité de traitement de tenseur) est un circuit intégré développé par Google pour accélérer les systèmes d'intelligence artificielle par réseaux de neurones. À la différence d'un GPU (Graphics processing unit), ce circuit intégré ne contient pas de fonction pour le rendu graphique, mais uniquement des unités de calcul optimisées pour le calcul tensoriel sur un grand volume de données. /
+- TPU \
+Un Tensor Processing Unit (TPU, unité de traitement de tenseur) est un circuit intégré développé par Google pour accélérer les systèmes d'intelligence artificielle par réseaux de neurones. À la différence d'un GPU (Graphics processing unit), ce circuit intégré ne contient pas de fonction pour le rendu graphique, mais uniquement des unités de calcul optimisées pour le calcul tensoriel sur un grand volume de données. \
 [Source](https://fr.wikipedia.org/wiki/Tensor_Processing_Unit)
 
-- Transformer
+- Transformer \
+Le modèle dit transformer est une architecture de type réseau de neurones qui excelle dans le traitement des données séquentielles, principalement associé aux grands modèles de langage (LLM). Les modèles transformers affichent également un niveau de performance exceptionnel dans d’autres domaines de l’intelligence artificielle (IA) tels que la vision par ordinateur, la reconnaissance vocale et la prévision des séries temporelles. \
+[Source](https://www.ibm.com/fr-fr/think/topics/transformer-model)
 
 **V**
-- Vérification
+- Vérification \
 
 **W**
-- Wikipedia
+- Wikipedia \
