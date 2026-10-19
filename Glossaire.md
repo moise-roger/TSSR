@@ -43,6 +43,8 @@ La bulle de l'intelligence artificielle est une bulle boursière théorisée dan
 
 **C**
 - Capacité \
+
+
 - CUDA \
 Acronyme de « Compute Unified Device Architecture », est une plateforme de calcul parallèle et un modèle d'interface de programmation d'applications (API) créé par NVIDIA. Elle permet aux développeurs et ingénieurs logiciels d'utiliser un processeur graphique (GPU) compatible CUDA à des fins de traitement généraliste — une approche connue sous le nom de GPGPU (General-Purpose computing on Graphics Processing Units, ou « calcul généraliste sur processeurs graphiques »).
 CUDA permet aux programmeurs d'accéder au jeu d'instructions virtuel et à la mémoire des éléments de calcul parallèles des GPU compatibles CUDA. Grâce à CUDA, les développeurs peuvent accélérer considérablement les applications gourmandes en ressources de calcul en exploitant la puissance des GPU pour des tâches de calcul non graphiques. \
@@ -57,65 +59,94 @@ La distillation des connaissances est une technique de machine learning qui cons
 [Source](https://www.ibm.com/fr-fr/think/topics/knowledge-distillation)
 
 **E**
-- Ecoute
-- Environnement
+- Ecoute \
+
+- Environnement \
 
 **F**
-- Frontière (modèle)
+- Frontière (modèle) \
 
 **G**
-- Génératif
-- Gouvernance
-- GPU
+- Génératif \
+
+- Gouvernance \
+
+- GPU \
 
 **H**
-- Hallucination
-- Harnais
-- HuggingFace
+- Hallucination \
+L’hallucination d’IA est un phénomène dans lequel un grand modèle de langage (LLM), souvent un chatbot d’IA générative ou un outil de vision par ordinateur perçoit des modèles ou des objets inexistants ou imperceptibles pour les observateurs humains, créant ainsi des résultats absurdes ou totalement erronés.
+[Source](https://www.ibm.com/fr-fr/think/topics/ai-hallucinations)
+
+- Harnais \
+
+- HuggingFace \
+Hugging Face est une plateforme et une communauté d’apprentissage machine (ML) et de science des données qui aide les utilisateurs à construire, déployer et entraîner des modèles d’apprentissage machine.
+
 
 **I**
-- Inférence
-- Injection
-- Invasif
+- Inférence \
+
+- Injection \
+Une injection de prompt est un type de cyberattaque contre les grands modèles de langage (LLM). Les pirates informatiques déguisent des entrées malveillantes en prompts légitimes et manipulent ainsi les systèmes d’IA générative (GenAI) pour qu’ils divulguent des données sensibles, diffusent de fausses informations ou pire. \
+[Source](https://www.ibm.com/fr-fr/think/topics/prompt-injection)
+- Invasif \
 
 **L**
-- Limite
-- LLAMA
-- LLM
+- Limite \
+
+- LLAMA \
+
+- LLM \
 
 **M**
-- Machine Learning
-- Mathématique
-- Mémoire unifiée
+- Machine Learning \
+
+- Mathématique \
+
+- Mémoire unifiée \
 
 **N**
-- NVIDIA
+- NVIDIA /
 
 **O**
-- OpenClaw
-- OpenRouter
+- OpenClaw /
+
+- OpenRouter /
 
 **P**
-- Paramètre
-- Poids
-- Pre-trained
-- Prompt
+- Paramètre /
+- Poids /
+
+- Pre-trained /
+
+- Prompt /
 
 **R**
-- RAM(DRAM)
-- RAG
-- Réseau neuronal
-- Robotisation
+- RAM(DRAM) /
+
+- RAG /
+
+- Réseau neuronal /
+
+- Robotisation /
 
 **S**
-- SLOP
-- Singularité technologique
-- Souveraineté
-- Super intelligence
+- SLOP /
+
+- Singularité technologique /
+
+- Souveraineté /
+
+- Super intelligence /
 
 **T**
-- Token
-- TPU
+- Token /
+
+- TPU /
+Un Tensor Processing Unit (TPU, unité de traitement de tenseur) est un circuit intégré développé par Google pour accélérer les systèmes d'intelligence artificielle par réseaux de neurones. À la différence d'un GPU (Graphics processing unit), ce circuit intégré ne contient pas de fonction pour le rendu graphique, mais uniquement des unités de calcul optimisées pour le calcul tensoriel sur un grand volume de données. /
+[Source](https://fr.wikipedia.org/wiki/Tensor_Processing_Unit)
+
 - Transformer
 
 **V**
