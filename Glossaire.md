@@ -29,7 +29,7 @@ Le but de cette phase est l’obtention des paramètres d’un modèle qui attei
 L'automatisation par l'IA permet de traiter les tâches répétitives et chronophages dans le but de rationaliser un flux de travail donné. En utilisant l'automatisation intelligente de cette manière, les entreprises peuvent réduire leurs coûts et accroître leur efficacité. Elle permet également aux talents humains de consacrer leur temps à des missions stratégiques plutôt qu'à des tâches plus fastidieuses. \
 [Source](https://www.salesforce.com/fr/artificial-intelligence/ai-automation/)
 
-- Autonomie
+- Autonomie \
 
 
 **B**
@@ -42,13 +42,19 @@ La bulle de l'intelligence artificielle est une bulle boursière théorisée dan
 [Source](https://fr.wikipedia.org/wiki/Bulle_de_l%27intelligence_artificielle)
 
 **C**
-- Capacité
-- CUDA
-- Cyberattaque par IA
+- Capacité \
+- CUDA \
+Acronyme de « Compute Unified Device Architecture », est une plateforme de calcul parallèle et un modèle d'interface de programmation d'applications (API) créé par NVIDIA. Elle permet aux développeurs et ingénieurs logiciels d'utiliser un processeur graphique (GPU) compatible CUDA à des fins de traitement généraliste — une approche connue sous le nom de GPGPU (General-Purpose computing on Graphics Processing Units, ou « calcul généraliste sur processeurs graphiques »).
+CUDA permet aux programmeurs d'accéder au jeu d'instructions virtuel et à la mémoire des éléments de calcul parallèles des GPU compatibles CUDA. Grâce à CUDA, les développeurs peuvent accélérer considérablement les applications gourmandes en ressources de calcul en exploitant la puissance des GPU pour des tâches de calcul non graphiques. \
+[Source](https://www.supermicro.com/fr-fr/glossary/cuda)
+
+- Cyberattaque par IA \
 
 **D**
-- Danger
-- Distillation
+- Danger \
+- Distillation \
+La distillation des connaissances est une technique de machine learning qui consiste à transférer les connaissances d’un grand modèle pré-entraîné, le « modèle enseignant », à un « modèle élève » plus petit. Cette technique est utilisée dans l’apprentissage profond comme moyen de compression des modèles et de transfert des connaissances, en particulier pour les réseaux neuronaux profonds massifs. \
+[Source](https://www.ibm.com/fr-fr/think/topics/knowledge-distillation)
 
 **E**
 - Ecoute
