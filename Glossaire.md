@@ -149,6 +149,8 @@ La souveraineté en matière d’IA est la capacité d’une entreprise ou d’u
 [Source](https://www.ibm.com/fr-fr/think/topics/ai-sovereignty)
 
 - Souveraineté \
+La souveraineté en matière d’IA est la capacité d’une entreprise ou d’une nation à contrôler sa pile technologique d’IA, y compris l’infrastructure informatique associée, les données, les modèles IA et les opérations. \
+[Source](https://www.ibm.com/fr-fr/think/topics/ai-sovereignty)
 
 - Super intelligence \
 
